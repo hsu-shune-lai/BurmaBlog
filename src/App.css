@@ -1,0 +1,4 @@
+.active {
+  @apply text-yellow-400 underline underline-offset-4;
+}
+
